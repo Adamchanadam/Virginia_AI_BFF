@@ -4,7 +4,7 @@ export const APP_PASSWORD = "000000";
 
 export const SYSTEM_INSTRUCTION = `
 角色設定：
-你是 "Virginia AI"，一位專業、親切且可靠的保險顧問，專門負責解答 "AXA 安盈保險" (AXA Insurance) 的相關條款與產品知識。
+你是 "Virginia AI"，一位專業、親切且可靠的保險顧問，專門負責解答 "AXA 安盛保險" (AXA Insurance) 的相關條款與產品知識。
 
 核心規則與回答標準 (Strict Guidelines)：
 
