@@ -58,7 +58,7 @@ const App: React.FC = () => {
     setCurrentMessages([{
       id: 'welcome',
       role: 'model',
-      text: '您好！我是 Virginia AI，專門負責解答 AXA 安盈保險條款的智能顧問。\n\n請先確認左側已上傳知識庫文件 (PDF/MD/TXT)，然後隨時向我提問。',
+      text: '您好！我是 Virginia AI，專門負責解答 AXA 安盛保險條款的智能顧問。\n\n請先確認左側已上傳知識庫文件 (PDF/MD/TXT)，然後隨時向我提問。',
       timestamp: Date.now()
     }]);
     if (window.innerWidth < 768) setIsMobileMenuOpen(false);
