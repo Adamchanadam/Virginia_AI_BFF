@@ -38,7 +38,7 @@ export const SYSTEM_INSTRUCTION = `
 `;
 
 // Model Configuration
-export const GEMINI_MODEL = "gemini-2.5-flash";
+export const GEMINI_MODEL = "gemini-3-flash-preview";
 
 // File Upload Limits
 // Updated for Backend Proxy capability & Growing Knowledge Base
